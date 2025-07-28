@@ -1,5 +1,5 @@
 {
-  "name": "platzi-date",
+  "name": "@endiba360/platzi-date",
   "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
